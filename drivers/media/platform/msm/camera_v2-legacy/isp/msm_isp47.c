@@ -1720,7 +1720,6 @@ void msm_vfe47_cfg_axi_ub_equal_default(
 	uint32_t prop_size = 0;
 	uint32_t wm_ub_size;
 	uint64_t delta;
-
 	uint32_t rdi_ub_offset;
 
 	if (frame_src == VFE_PIX_0) {
